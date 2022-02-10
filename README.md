@@ -1,6 +1,6 @@
 # DDS-CV
 
-Deep-Learning-Drowsy-Driver-Detection-System. 
+Deep-Learning-Drowsy-Driver-Detection-System.
 
 This Repository is a project that uses computer vision to classify whether a driver is Awake or not.
 
@@ -8,6 +8,11 @@ This Repository is a project that uses computer vision to classify whether a dri
 
 CNN (Convalution Neural Networks) for image feature extraction.
 
+## Requirements
+
+> [p]()ip install opencv
+>
+> conda install opencv
 
 ## Run Method
 
