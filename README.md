@@ -10,9 +10,13 @@ CNN (Convalution Neural Networks) for image feature extraction.
 
 ## Requirements
 
-> [p]()ip install opencv
->
-> conda install opencv
+Since python is platform independent, it can be run in windows, macos, linux. 
+
+It is best to run in conda enviornment as many packages are installed with anaconda.
+
+`conda install opencv`
+
+`pip install opencv`
 
 ## Run Method
 
